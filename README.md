@@ -9,8 +9,8 @@ Both tasks apply computer vision and deep learning techniques to real-world medi
 
 | Problem | Title | Summary |
 |--------|-------|---------|
-| Q1 | [Retinal Image Grading using CLIP](./Q1_CLIP_retinal) | Used pretrained CLIP model to classify diabetic retinopathy severity via prompt-based zero-shot learning |
-| Q2 | [Spleen CT Segmentation using 3D U-Net](./Q2_spleen_segmentation) | Applied a 3D U-Net model to segment spleen regions from `.nii.gz` CT volumes |
+| Q1 | [Retinal Image Grading using CLIP](./hw2q1) | Used pretrained CLIP model to classify diabetic retinopathy severity via prompt-based zero-shot learning |
+| Q2 | [Spleen CT Segmentation using 3D U-Net](./hw2q2) | Applied a 3D U-Net model to segment spleen regions from `.nii.gz` CT volumes |
 
 ---
 
