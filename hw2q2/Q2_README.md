@@ -58,7 +58,7 @@ To address this, **Dice/Val and Loss/Train graphs** were saved in `.png` format 
 - Make sure to create the `predict/` folder under `SpleenDataset/`
 - Predicted results are saved as `.nii.gz` and visualized using ITK-SNAP
 
-🖼 If visualization fails:
+ If visualization fails:
 - PNG overlays of each test prediction were saved manually in `images/` using ITK-SNAP
 
 ---
