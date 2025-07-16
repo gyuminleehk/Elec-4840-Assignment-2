@@ -39,7 +39,7 @@ Both tasks apply computer vision and deep learning techniques to real-world medi
 
 ### Finetuned model result
 ![Finetuned model](./Q1finetunedresult1.png)
-![](./Q1finetunedresult2.png
+![](./Q1finetunedresult2.png)
 
 ### Q2
 ![Dice/Val](./dice_val_graph.png)
