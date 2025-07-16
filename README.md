@@ -47,7 +47,7 @@ Both tasks apply computer vision and deep learning techniques to real-world medi
 ![Spleen Prediction Sample](./Spleen_Prediction_52.png)
 ![Spleen Prediction Sample](./Spleen_Prediction_53.png)
 
-ITK Snap screenshot of Test image, test mask(Blue color) and 
+- ITK Snap screenshot of Test image, test mask(Blue color) and 
 prediction of test mask (Red color). Overlap area was represented by Purple color
 ---
 
